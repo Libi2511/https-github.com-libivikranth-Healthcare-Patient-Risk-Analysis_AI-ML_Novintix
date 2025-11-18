@@ -1,0 +1,46 @@
+================================================================================
+                     DOCTOR RECOMMENDATION REPORT
+================================================================================
+
+PATIENT PROFILE:
+  - Age: 72 years
+  - Medical Condition: Asthma
+  - Current Medication: Ibuprofen
+  - Test Result: Abnormal
+
+CLINICAL ASSESSMENT:
+Significant reduction in lung function detected. Increase controller medication as advised.
+Avoid exposure to allergens and respiratory irritants. Ensure the rescue inhaler is kept
+readily accessible at all times. Monitor breathing patterns closely.
+
+AGE-RELATED CONSIDERATIONS:
+At this age, enhanced medical supervision is recommended. A comprehensive geriatric
+assessment should be conducted to evaluate overall health. Fall-risk assessment and
+medication interaction review (polypharmacy check) are strongly advised.
+
+MEDICATION GUIDANCE:
+Ibuprofen should be used at the lowest effective dose. Long-term use may impact kidney
+function—regular monitoring is recommended. Consider alternative pain management options
+if advised by a physician.
+
+GENERAL HEALTH ADVICE:
+  - Maintain a consistent sleep routine (7–8 hours per night)
+  - Stay adequately hydrated (6–8 glasses of water daily unless restricted)
+  - Follow a balanced diet rich in vegetables, fruits, and whole grains
+  - Engage in light physical activity daily (as tolerated)
+  - Practice stress-reduction techniques and prioritize mental well-being
+  - Avoid smoking and minimize alcohol consumption
+
+FOLLOW-UP PLAN:
+  - URGENT: Schedule a clinical review within the next 3–5 days
+  - Repeat lung-function tests and other evaluations as recommended
+  - Monitor symptoms daily and document any changes
+
+WARNING – SEEK IMMEDIATE MEDICAL ATTENTION IF:
+  - Severe chest tightness, wheezing, or difficulty breathing
+  - Sudden intense headache, vision problems, or confusion
+  - Rapid worsening of asthma symptoms despite using inhaler
+  - Persistent or severe pain, or uncontrolled bleeding
+  - Signs of a severe allergic reaction (swelling, rash, breathing difficulties)
+
+

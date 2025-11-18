@@ -1,3 +1,0 @@
-Sample AI Doctor Recommendation
-------------------------------
-Patient shows abnormal readings...
